@@ -29,6 +29,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 * [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
+* [Scalekit](https://www.scalekit.com/) - Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 
 #### OAuth
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
